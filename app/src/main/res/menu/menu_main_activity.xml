@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_search_devices"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_person_add"
+        android:title="Search Devices" />
+
+    <item
+        android:id="@+id/menu_enable_bluetooth"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_bluetooth_24"
+        android:title="Switch On Bluetooth" />
+
+    <item
+    android:id="@+id/contacts"
+    app:showAsAction="always"
+    android:icon="@drawable/ic_baseline_contact_24"
+    android:title="Contacts" />
+
+    <item
+        android:id="@+id/chat_list"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_chat_list"
+        android:title="Chat List" />
+
+    <item
+        android:id="@+id/action_settings"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:title="Settings" />
+
+</menu>
