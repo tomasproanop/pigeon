@@ -1,1 +1,2 @@
-# pigeon
+### Pigeon
+Another Bluetooth chat app! :)
