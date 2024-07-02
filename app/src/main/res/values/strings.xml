@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pigeon</string>
+    <string name="str_paired_devices">Paired Devices</string>
+    <string name="str_available_devices">Available Devices</string>
+    <string name="str_icon_description">Pigeon\'s icon</string>
+    <string name="str_username_hint">Enter your username</string>
+    <string name="str_password_hint">Enter your password</string>
+    <string name="hello_blank_fragment">Add a new contact</string>
+    <string name="about_link">http:github.com/</string>
+</resources>
